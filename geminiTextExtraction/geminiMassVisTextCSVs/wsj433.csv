@@ -1,0 +1,60 @@
+textContents,textType,chartType
+Where the Candidates Stand,title,
+Tax,axis_label,
+Current,axis_label,
+Proposals:,axis_label,
+Pres. Barack Obama,annotation,
+Mitt Romney,annotation,
+"Top individual
+tax rate",axis_label,
+"35% (set to increase 39.6% in
+2013)",data,
+"Extend lower Bush-era tax rates
+for families making less than
+$250,000 a year. Allow tax rates
+for families earning more than
+that to increase.",data,
+Change to 28%,data,
+"If nothing is done, tax revenue for
+Fy 2013 is expected to be $2.968
+trillion. (FY 2013 runs between
+Oct. 1, 2012 and Sept. 30, 2013).",annotation,
+Change to 28%,data,
+"Reduce individual income tax
+rates by 20% for all earners.
+Eliminate or limit unspecified
+deductions to prevent a large
+drop in tax revenue.",data,
+"Top corporate
+tax rate",axis_label,
+35%,data,
+"Lower top corporate rate to 28%
+by limiting deductions. Create
+new incentives for companies to
+bring jobs back to U.S. Add
+incentives for manufacturers.",data,
+Change to 25%,data,
+"Long-term
+capital gains",axis_label,
+"15% top rate increasing to 20%
+in 2013",data,
+"20% long-term rate for top
+earners",data,
+"Lower top corporate rate to 25%
+by eliminating or limiting
+deductions. Move to a 'territorial'
+tax system for U.S. companies
+with operations overseas.",data,
+Estate tax,axis_label,
+"35% over certain thresholds
+rising to 55% in 2013",data,
+"45% top rate over certain
+threshold",data,
+"Eliminate tax on long-term capital
+gains and dividends for families
+making less than $200,000 and
+maintain current rates for those
+earning more.",data,
+Repeal estate tax,data,
+Sources: Presidential campaigns; Congressional Budget Office,caption,
+The Wall Street Journal,caption,

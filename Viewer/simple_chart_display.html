@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chart and CSV Display</title>
+    <style>
+        .chart-container {
+            display: flex;
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+        .chart-image {
+            flex: 1;
+            max-width: 50%;
+            padding: 10px;
+        }
+        .csv-data {
+            flex: 1;
+            padding: 10px;
+            overflow-x: auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .chart-title {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        .line-count {
+            color: #666;
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+        #dropZone {
+            border: 2px dashed #ccc;
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <div id="dropZone">
+        <p>Select your ChartImages and ChartData folders to begin</p>
+        <input type="file" id="chartImagesInput" webkitdirectory directory multiple>
+        <label for="chartImagesInput">Select ChartImages folder</label>
+        <br><br>
+        <input type="file" id="chartDataInput" webkitdirectory directory multiple>
+        <label for="chartDataInput">Select ChartData folder</label>
+    </div>
+    <div id="content"></div>
+
+    <script>
+        let chartImages = new Map();
+        let csvFiles = new Map();
+
+        async function loadCSV(file) {
+            const text = await file.text();
+            const lines = text.split('\n').filter(line => line.trim());
+            const headers = lines[0].split(',');
+            const rows = lines.slice(1).map(line => line.split(','));
+            return { headers, rows, lineCount: lines.length };
+        }
+
+        async function createChartDisplay(chartName, imageFile, csvFile) {
+            const container = document.createElement('div');
+            container.className = 'chart-container';
+
+            // Left side - Chart image
+            const imageDiv = document.createElement('div');
+            imageDiv.className = 'chart-image';
+            
+            const title = document.createElement('div');
+            title.className = 'chart-title';
+            title.textContent = chartName;
+            imageDiv.appendChild(title);
+
+            const img = document.createElement('img');
+            const imageUrl = URL.createObjectURL(imageFile);
+            img.src = imageUrl;
+            img.alt = chartName;
+            imageDiv.appendChild(img);
+
+            // Right side - CSV data
+            const csvDiv = document.createElement('div');
+            csvDiv.className = 'csv-data';
+
+            try {
+                const csvData = await loadCSV(csvFile);
+                
+                const lineCount = document.createElement('div');
+                lineCount.className = 'line-count';
+                lineCount.textContent = `Number of lines: ${csvData.lineCount}`;
+                csvDiv.appendChild(lineCount);
+
+                const table = document.createElement('table');
+                
+                // Add headers
+                const thead = document.createElement('thead');
+                const headerRow = document.createElement('tr');
+                csvData.headers.forEach(header => {
+                    const th = document.createElement('th');
+                    th.textContent = header;
+                    headerRow.appendChild(th);
+                });
+                thead.appendChild(headerRow);
+                table.appendChild(thead);
+
+                // Add data rows
+                const tbody = document.createElement('tbody');
+                csvData.rows.forEach(row => {
+                    const tr = document.createElement('tr');
+                    row.forEach(cell => {
+                        const td = document.createElement('td');
+                        td.textContent = cell;
+                        tr.appendChild(td);
+                    });
+                    tbody.appendChild(tr);
+                });
+                table.appendChild(tbody);
+                
+                csvDiv.appendChild(table);
+            } catch (error) {
+                csvDiv.textContent = `Error loading CSV data: ${error.message}`;
+            }
+
+            container.appendChild(imageDiv);
+            container.appendChild(csvDiv);
+            return container;
+        }
+
+        function handleFileSelect(event, isImages) {
+            const files = Array.from(event.target.files);
+            
+            files.forEach(file => {
+                const fileName = file.name;
+                const chartName = fileName.split('.')[0];
+                
+                if (isImages && fileName.toLowerCase().endsWith('.png')) {
+                    chartImages.set(chartName, file);
+                } else if (!isImages && fileName.toLowerCase().endsWith('.csv')) {
+                    csvFiles.set(chartName, file);
+                }
+            });
+
+            updateDisplay();
+        }
+
+        async function updateDisplay() {
+            const content = document.getElementById('content');
+            content.innerHTML = ''; // Clear existing content
+
+            // Process only charts that have both PNG and CSV files
+            for (const [chartName, imageFile] of chartImages) {
+                const csvFile = csvFiles.get(chartName);
+                if (csvFile) {
+                    const chartDisplay = await createChartDisplay(chartName, imageFile, csvFile);
+                    content.appendChild(chartDisplay);
+                }
+            }
+        }
+
+        // Set up event listeners
+        document.getElementById('chartImagesInput').addEventListener('change', (e) => handleFileSelect(e, true));
+        document.getElementById('chartDataInput').addEventListener('change', (e) => handleFileSelect(e, false));
+    </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+textContents,textType,chartType
+Expenditures on general government outsourcing (%GDP),title,
+"Expenditures on general government outsourcing as share of GDP. Government outsourcing includes goods and
+services used by governments (e.g. procurement of intermediate products such as accounting or IT services), as
+well as outsourced goods and services financed by government (e.g. medical treatments refunded by public social
+security payments)",caption,
+Germany,annotation,
+Norway,annotation,
+Turkey,annotation,
+Greece,annotation,
+0%,axis_label,
+2%,axis_label,
+4%,axis_label,
+6%,axis_label,
+8%,axis_label,
+10%,axis_label,
+12%,axis_label,
+7.54% (2015),annotation,
+7.11%,annotation,
+9.41%,annotation,
+13.4%,annotation,
+Source: Government at a Glance - OECD (2017),source,
+OurWorldInData.org/public-spending/ • CC BY,annotation,
+"Our World
+in Data",legend,

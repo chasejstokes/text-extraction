@@ -1,0 +1,19 @@
+textContents,textType,chartType
+Majorities say federal government is doing too little to protect aspects of the environment,title,
+% of U.S. adults who say the federal government is doing  in each area,axis_label,
+Too little,legend,
+About the right amount,legend,
+Too much,legend,
+"Protect water quality of lakes,
+rivers and streams",annotation,
+Protect air quality,annotation,
+"Reduce effects of climate
+change",annotation,
+"Protect animals and their
+habitats",annotation,
+"Protect open lands in
+national parks",annotation,
+Note: Respondents who did not give an answer are not shown.,caption,
+"Source: Survey conducted April 29-May 5, 2020.",caption,
+"""Two-Thirds of Americans Think Government Should Do More on Climate""",caption,
+PEW RESEARCH CENTER,caption,

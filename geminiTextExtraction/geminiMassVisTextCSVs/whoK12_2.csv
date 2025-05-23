@@ -1,0 +1,8 @@
+textContents,textType,chartType
+The world is not on track to meet the MDG sanitation target,title,
+FIGURE 15,caption,
+"Progress towards the MDG sanitation target, 2010",caption,
+ON TRACK: Coverage rate in 2010 was >95% or was within 5% of the 2010 rate required to meet the target,legend,
+PROGRESS BUT INSUFFICIENT: Coverage rate in 2010 was between 5% and 10% of the 2010 rate required to meet the target,legend,
+NOT ON TRACK: Coverage rate in 2010 was the same or lower than the rate in 1990 or below 10% of the 2010 rate required to meet the target,legend,
+INSUFFICIENT DATA OR NOT APPLICABLE: Data were unavailable or insufficient to estimate trends or a progress assessment was not applicable,legend,

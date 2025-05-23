@@ -1,0 +1,19 @@
+textContents,textType,chartType
+"More than half of the 2.5 billion people without
+improved sanitation live in India or China",title,
+FIGURE 20,caption,
+MILLIONS,axis_label,
+REST OF WORLD 604,legend,
+INDIA 814,legend,
+CHINA 477,legend,
+INDONESIA 110,legend,
+NIGERIA 109,legend,
+PAKISTAN 91,legend,
+BANGLADESH 66,legend,
+ETHIOPIA 66,legend,
+DEMOCRATIC REPUBLIC OF THE CONGO 50,legend,
+RUSSIAN FEDERATION 43,legend,
+UNITED REPUBLIC OF TANZANIA 40,legend,
+BRAZIL 40,legend,
+"Countries with the large numbers of people without access to improved
+sanitation (millions)",annotation,

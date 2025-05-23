@@ -1,0 +1,21 @@
+textContents,textType,chartType
+"Wide partisan gap on whether design of
+U.S. govt. needs 'significant changes'",title,
+"Thinking about the fundamental design and structure of
+American government, % who say ...",caption,
+"No significant
+changes are needed",legend,
+"Significant changes
+are needed",legend,
+Total,axis_label,
+37,data_point,
+62,data_point,
+Rep/Lean Rep,axis_label,
+57,data_point,
+41,data_point,
+Dem/Lean Dem,axis_label,
+20,data_point,
+79,data_point,
+Note: No answer responses not shown.,annotation,
+"Source: Survey of U.S. adults conducted July 27-Aug. 2, 2020.",annotation,
+PEW RESEARCH CENTER,footer,

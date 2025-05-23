@@ -1,0 +1,21 @@
+textContents,textType,chartType
+"Neonatal, infant and child mortality rates, Bahrain, 1990 to 2011",title,
+"Share of newborns who die in the first 28 days of life (neonatal mortality); first year of life (infant mortality) and
+before reaching the age of five (child mortality).",caption,
+2%,axis_label,
+1.5%,axis_label,
+1%,axis_label,
+0.5%,axis_label,
+0%,axis_label,
+Child (before age 5),legend,
+Infant (first year of life),legend,
+Neonatal (first 28 days of life),legend,
+1990,axis_label,
+1995,axis_label,
+2000,axis_label,
+2005,axis_label,
+2011,axis_label,
+Source: World Bank,annotation,
+CC BY,annotation,
+"Our World
+in Data",annotation,

@@ -1,0 +1,28 @@
+textContents,textType,semantic_level
+World GDP per person,title,L1
+% change on previous year,subtitle,L1
+World total,legend,L1
+Contribution from:,legend,L1
+advanced economies,legend,L1
+developing economies,legend,L1
+1990,axis_label,L1
+92,axis_label,L1
+94,axis_label,L1
+96,axis_label,L1
+98,axis_label,L1
+2000,axis_label,L1
+02,axis_label,L1
+04,axis_label,L1
+06,axis_label,L1
+08,axis_label,L1
+10,axis_label,L1
+11,axis_label,L1
+5,axis_label,L1
+4,axis_label,L1
+3,axis_label,L1
+2,axis_label,L1
+1,axis_label,L1
+0,axis_label,L1
+-1,axis_label,L1
+-2,axis_label,L1
+Source: IMF,caption,L4

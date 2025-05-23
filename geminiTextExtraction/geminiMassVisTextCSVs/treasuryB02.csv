@@ -1,0 +1,71 @@
+textContents,textType,chartType
+Response,title,
+Cost,title,
+Reform,title,
+Challenges,title,
+2 The crisis response helped restart economic growth,title,
+"Real GDP growth, quarterly",subtitle,
+2007,axis_label,
+2008,axis_label,
+"Mar. 3, 2009",annotation,
+Feb. 2009,annotation,
+"Jan. 20, 2009",annotation,
+2009,axis_label,
+"Mar. 23, 2009",annotation,
+2010,axis_label,
+2011,axis_label,
++3.6%,annotation,
++3.0%,annotation,
++1.3%,annotation,
++1.7%,annotation,
++3.8%,annotation,
++3.9%,annotation,
++3.8%,annotation,
++2.5%,annotation,
++2.3%,annotation,
++1.8%,annotation,
++1.3%,annotation,
++0.4%,annotation,
++3.0%,annotation,
++0.5%,annotation,
+-1.8%,annotation,
+-0.7%,annotation,
+-8.9%,annotation,
+-6.7%,annotation,
+-3.7%,annotation,
+"Dec. 12, 2007",annotation,
+Mar. 2008,annotation,
+"Jul. 7, 2008",annotation,
+Sept. 2008,annotation,
+"Oct. 3, 2008",annotation,
+Jun. 2009,annotation,
+"May 7, 2009",annotation,
+"Apr. 2, 2009",annotation,
+"TALF program launched to help
+revive credit markets",annotation,
+"Financial Stability Plan announced
+Recovery Act signed
+Housing programs announced",annotation,
+"President Obama
+takes office",annotation,
+"PPIP program announced to help
+revive mortgage finance market",annotation,
+"Fed establishes first liquidity
+facility and currency swap lines
+with other central banks",annotation,
+Bear Stearns collapses,annotation,
+"FDIC intervenes
+in IndyMac Bank",annotation,
+"Fannie Mae and Freddie Mac conservatorship
+Lehman Brothers bankruptcy
+AIG stabilization effort",annotation,
+"First large banks repay TARP funds
+GM restructuring",annotation,
+Large bank stress test results released,annotation,
+"G-20 finance ministers announce
+coordinated response to global
+financial crisis",annotation,
+"TARP financial stabilization
+package enacted",annotation,
+Source: Bureau of Economic Analysis.,caption,
+U.S. DEPARTMENT OF THE TREASURY,footer,

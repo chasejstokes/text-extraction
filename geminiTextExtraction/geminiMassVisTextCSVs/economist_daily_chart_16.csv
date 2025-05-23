@@ -1,0 +1,126 @@
+textContents,textType,semantic_level
+The war in Syria,title,L1
+"Deaths, cumulative total, '000",caption,L1
+Civilians,legend,L1
+Opposition fighters and army defectors,legend,L1
+Regime army,legend,L1
+Jisr al-Shughour fighting,annotation,L4
+Hama assault,annotation,L4
+Fighting reaches Damascus and Aleppo,annotation,L4
+Syrian army bombards Homs,annotation,L4
+Houla civilian massacre,annotation,L4
+UN mission starts,annotation,L4
+Annan replaced as peace envoy,annotation,L4
+M,axis_label,L1
+A,axis_label,L1
+M,axis_label,L1
+J,axis_label,L1
+J,axis_label,L1
+A,axis_label,L1
+S,axis_label,L1
+O,axis_label,L1
+N,axis_label,L1
+D,axis_label,L1
+J,axis_label,L1
+F,axis_label,L1
+M,axis_label,L1
+A,axis_label,L1
+M,axis_label,L1
+J,axis_label,L1
+J,axis_label,L1
+A,axis_label,L1
+S,axis_label,L1
+O,axis_label,L1
+2011,axis_label,L1
+2012,axis_label,L1
+0,axis_label,L1
+5,axis_label,L1
+10,axis_label,L1
+15,axis_label,L1
+20,axis_label,L1
+25,axis_label,L1
+30,axis_label,L1
+35,axis_label,L1
+"Refugees* in: cumulative total, '000",caption,L1
+Iraq,legend,L1
+Turkey,legend,L1
+North Africa,legend,L1
+Lebanon,legend,L1
+Jordan,legend,L1
+M,axis_label,L1
+A,axis_label,L1
+M,axis_label,L1
+J,axis_label,L1
+J,axis_label,L1
+A,axis_label,L1
+S,axis_label,L1
+O,axis_label,L1
+0,axis_label,L1
+50,axis_label,L1
+100,axis_label,L1
+150,axis_label,L1
+200,axis_label,L1
+250,axis_label,L1
+300,axis_label,L1
+350,axis_label,L1
+2012,axis_label,L1
+Months ending,axis_label,L1
+TURKEY,annotation,L1
+Nicosia,annotation,L1
+CYPRUS,annotation,L1
+Mediterranean Sea,annotation,L1
+150 km,annotation,L1
+Latakia,annotation,L1
+Idleb,annotation,L1
+Aleppo,annotation,L1
+Jisr al-Shughour,annotation,L1
+Hama,annotation,L1
+Homs,annotation,L1
+Damascus,annotation,L1
+Deraa,annotation,L1
+Quneitra,annotation,L1
+ISRAEL,annotation,L1
+LEBANON,annotation,L1
+Beirut,annotation,L1
+Tartus,annotation,L1
+Suwayda,annotation,L1
+JORDAN,annotation,L1
+Hasaka,annotation,L1
+Deir ez-Zor,annotation,L1
+Raqqah,annotation,L1
+IRAQ,annotation,L1
+SYRIA,annotation,L1
+"3,295",annotation,L2
+438,annotation,L2
+"5,562",annotation,L2
+42,annotation,L2
+"87,140",annotation,L2
+36,annotation,L2
+"2,291",annotation,L2
+"6,192",annotation,L2
+"2,327",annotation,L2
+"105,166",annotation,L2
+17,annotation,L2
+87,annotation,L2
+"1,762",annotation,L2
+96,annotation,L2
+"5,956",annotation,L2
+"36,500",annotation,L2
+"93,576",annotation,L2
+"2,511",annotation,L2
+Rebel activity,legend,L1
+Refugees,legend,L1
+(as of Oct 4th),legend,L1
+Civilian deaths,legend,L1
+(as of 11am BST Oct 8th),legend,L1
+Total,annotation,L1
+"327,944",annotation,L2
+Total,annotation,L1
+"25,050",annotation,L2
+Sources: Centre for Documentation of Violations in Syria; Political Geography Now; UNHCR,caption,L4
+* Not counted until April,annotation,L4
+18th/4th,annotation,L4
+§To north Africa,annotation,L4
+line chart,chart_type,L1
+bar chart,chart_type,L1
+map,chart_type,L1

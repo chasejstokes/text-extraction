@@ -1,0 +1,5 @@
+chartType,rows,columns,
+area chart,"(0,0)","(0,0)",
+area chart,"(0,0)","(1,1)",
+bar chart,"(1,1)","(0,0)",
+bar chart,"(1,1)","(1,1)",

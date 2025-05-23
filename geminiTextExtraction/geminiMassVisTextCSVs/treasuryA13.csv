@@ -1,0 +1,56 @@
+textContents,textType,chartType
+Fiscal Policy,title,
+13 Drivers of Long-Term Deficits,title,
+"Over the long term, demands on federal
+resources for medical care will increase.
+Projected non-interest spending by category, percent of GDP¹",caption,
+10 percent of GDP,axis_label,
+9,axis_label,
+8,axis_label,
+7,axis_label,
+6,axis_label,
+5,axis_label,
+4,axis_label,
+3,axis_label,
+2,axis_label,
+1,axis_label,
+0,axis_label,
+2011,axis_label,
+Medicare &,legend,
+Medicaid,legend,
+"Social
+Security",legend,
+Discretionary,legend,
+"Other
+mandatory",legend,
+"The Affordable Care Act has helped
+curb costs...",caption,
+Projected Medicare spending as a percent of GDP,caption,
+12 percent of GDP,axis_label,
+10,axis_label,
+8,axis_label,
+6,axis_label,
+4,axis_label,
+2,axis_label,
+0,axis_label,
+1990,axis_label,
+"2009 projection
+prior to the
+Affordable Care Act",annotation,
+"2011 projection
+after the
+Affordable Care Act",annotation,
+...although challenges remain.,caption,
+"Sources of projected federal spending on major mandatory health care
+programs and Social Security, 2011 to 2035.",caption,
+16 percent of GDP,axis_label,
+"Due to excess health care
+cost growth¹",annotation,
+Due to aging,annotation,
+"In the absence of aging or
+excess health care cost
+growth",annotation,
+"1 President's FY2013 long-term projections, base case.",footnote,
+"2 CBO defines ""excess health care cost growth"" as growth in health care costs that exceeds the growth rate of GDP per capita.",footnote,
+"Source: Office of Management and Budget, Congressional Budget Office, Medicare trustees.",source,
+U.S. DEPARTMENT OF THE TREASURY,source,

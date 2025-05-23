@@ -1,0 +1,1 @@
+This image contains one area chart entitled "Trend in the proportion of the global population using improved, shared or unimproved sanitation or practising open defecation, 1990-2010". Because there is only one chart, the chart spans rows (0,0) and columns (0,0).

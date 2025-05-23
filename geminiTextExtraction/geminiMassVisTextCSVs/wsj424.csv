@@ -1,0 +1,37 @@
+textContents,textType,semantic_level
+Helping Hand,title,L1
+"Funding, number of applicants and enrollment in NYC's summer youth employment program",subtitle,L1
+Funding,axis_label,L1
+2012,axis_label,L1
+$43.0 million,axis_label,L1
+2011,axis_label,L1
+$43.5,axis_label,L1
+2010,axis_label,L1
+$51.5,axis_label,L1
+2009,axis_label,L1
+$67.5,axis_label,L1
+2008,axis_label,L1
+$54.0,axis_label,L1
+2007,axis_label,L1
+$56.5,axis_label,L1
+Enrollment,axis_label,L1
+"29,336",axis_label,L2
+"30,628",axis_label,L2
+"35,725",axis_label,L2
+"52,255",axis_label,L2
+"43,113",axis_label,L2
+"41,804",axis_label,L2
+Not hired,annotation,L1
+Total applicants,annotation,L1
+"132,000",annotation,L2
+"131,119",annotation,L2
+"143,169",annotation,L2
+"139,597",annotation,L2
+"103,189",annotation,L2
+"93,750",annotation,L2
+Source: Department of Youth & Community Development,caption,L4
+The Wall Street Journal,caption,L4
+Each,legend,L1
+=,legend,L1
+"2,000",legend,L1
+bar chart,chart_type,L1

@@ -1,0 +1,22 @@
+textContents,textType,chartType
+"Four out of 10 people who
+have gained access to
+improved sanitation since
+1990 live in China or India",title,
+"China, 593 million",annotation,
+"India, 251 million",annotation,
+MILLIONS,axis_label,
+EASTERN ASIA 613,legend,
+IN CHINA 593,legend,
+SOUTHERN ASIA 399,legend,
+IN INDIA 251,legend,
+SOUTH-EASTERN ASIA 204,legend,
+SUB-SAHARAN AFRICA 127,legend,
+LATIN AMERICA & THE CARIBBEAN 169,legend,
+DEVELOPED COUNTRIES 97,legend,
+WESTERN ASIA 74,legend,
+NORTHERN AFRICA 62,legend,
+CAUCASUS AND CENTRAL ASIA 27,legend,
+OCEANIA 1,legend,
+FIGURE 17,figure_caption,
+"Number of people who gained access to improved sanitation from 1990 to 2010, by MDG region (millions)",caption,

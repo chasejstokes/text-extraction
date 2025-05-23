@@ -1,0 +1,17 @@
+textContents,textType,chartType
+Poor Performer,title,
+"How Cleveland's student test scores stack up against those in other
+large U.S. cities.",caption,
+4th grade,axis_label,
+READING,axis_label,
+MATH,axis_label,
+"Average student score in
+large-city public schools*",legend,
+Cleveland,legend,
+8th grade,axis_label,
+READING,axis_label,
+MATH,axis_label,
+"* The average student score on the Trial Urban District Assessment (TUDA), a national exam that
+is taken voluntarily by 21 school districts.",annotation,
+Source: National Center for Education Statistics,annotation,
+The Wall Street Journal,annotation,

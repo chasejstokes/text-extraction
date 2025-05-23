@@ -1,0 +1,1 @@
+This image contains one line chart entitled "Booster Shots". Because there is only one chart, the chart spans rows (0,0) and columns (0,0).

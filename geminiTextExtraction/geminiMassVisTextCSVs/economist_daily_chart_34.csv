@@ -1,0 +1,50 @@
+textContents,textType,semantic_level
+Global competitiveness and GDP per person,title,L1
+2012,title,L1
+120,axis_label,L1
+100,axis_label,L1
+80,axis_label,L1
+60,axis_label,L1
+40,axis_label,L1
+20,axis_label,L1
+0,axis_label,L1
+2.5,axis_label,L1
+3.0,axis_label,L1
+3.5,axis_label,L1
+4.0,axis_label,L1
+4.5,axis_label,L1
+5.0,axis_label,L1
+5.5,axis_label,L1
+6.0,axis_label,L1
+"GDP per person, $’000, 2012 forecast",axis_label,L1
+"Global Competitiveness Index score (1-7), 2012",axis_label,L1
+Luxembourg,annotation,L2
+Qatar,annotation,L2
+Norway,annotation,L2
+U.A.E.,annotation,L2
+Australia,annotation,L2
+Switzerland,annotation,L2
+Sweden,annotation,L2
+Singapore,annotation,L2
+Kuwait,annotation,L2
+Japan,annotation,L2
+US,annotation,L2
+Germany,annotation,L2
+Britain,annotation,L2
+South Korea,annotation,L2
+Saudi Arabia,annotation,L2
+Taiwan,annotation,L2
+Malaysia,annotation,L2
+Thailand,annotation,L2
+India,annotation,L2
+China,annotation,L2
+South Africa,annotation,L2
+Russia,annotation,L2
+Brazil,annotation,L2
+Italy,annotation,L2
+Spain,annotation,L2
+Greece,annotation,L2
+Venezuela,annotation,L2
+Ireland,annotation,L2
+Sources: World Economic Forum; IMF; The Economist,caption,L4
+,,L3

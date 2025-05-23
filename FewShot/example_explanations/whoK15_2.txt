@@ -1,0 +1,1 @@
+This image contains one circle chart entitled "Countries with the large numbers of people without access to improved sanitation". Because there is only one chart, the chart spans rows (0,0) and columns (0,0).

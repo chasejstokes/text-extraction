@@ -1,0 +1,38 @@
+textContents,textType,chartType
+"One Economy, Two Tales | Number crunching in China",title,
+Industrial production shows less volatility than electricity generation...,caption,
+45%,axis_label,
+30,axis_label,
+15,axis_label,
+0,axis_label,
+-15,axis_label,
+"Change
+from a year
+earlier",annotation,
+"Industrial
+production",annotation,
+"Electricity
+generation",annotation,
+...while reported growth has fewer bumps than one alternative measure.,caption,
+15%,axis_label,
+12,axis_label,
+9,axis_label,
+6,axis_label,
+3,axis_label,
+0,axis_label,
+"GDP growth
+as reported
+by China",legend,
+"Capital
+Economics' China
+activity proxy, a
+composite that
+tracks growth using
+indicators less prone
+to political influence,
+including electricity
+generation",legend,
+2007 '08 '09 '10 '11 '12,axis_label,
+2007 '08 '09 '10 '11 '12,axis_label,
+Sources: CEIC; Capital Economics; National Bureau of Statistics,source,
+The Wall Street Journal,publication,

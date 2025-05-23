@@ -1,0 +1,11 @@
+chartType,rows,columns
+table,"(0,0)","(0,0)"
+map,"(1,1)","(1,1)"
+line chart,"(2,2)","(2,2)"
+circle chart,"(3,3)","(3,3)"
+area chart,"(4,4)","(4,4)"
+diagram,"(5,5)","(5,5)"
+bar chart,"(6,6)","(6,6)"
+point chart,"(7,7)","(7,7)"
+bar chart,"(8,8)","(8,8)"
+bar chart,"(9,9)","(9,9)"

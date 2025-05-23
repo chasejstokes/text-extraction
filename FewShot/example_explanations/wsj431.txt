@@ -1,0 +1,1 @@
+This image contains one map entitled "Drying Up| A worsening drought is threatening corn crops in the Midwest". Because there is only one chart, the chart spans rows (0,0) and columns (0,0).

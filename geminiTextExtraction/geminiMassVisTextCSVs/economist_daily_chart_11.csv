@@ -1,0 +1,51 @@
+textContents,textType,semantic_level
+THE BIG CLEAN-UP,title,L1
+"In March 2009 the Mexican government published a list of its 37 most-wanted suspected drug traffickers. Since then, 25 kingpins have fallen, either arrested or killed by government forces, or rubbed out by their competitors. For a long time, bringing down villains seemed to do little to stem the violence, but over the past year the murder rate has been falling for the first time in 5 years. The following gallery shows the alleged bandits who have been apprehended, along with those who remain at large.",caption,L4
+"Gulf ""cartel"" / Los Zetas",annotation,L1
+Sinaloa Federation,annotation,L1
+Carrillo Fuentes organisation,annotation,L1
+La Familia Michoacana,annotation,L1
+Beltrán Leyva,annotation,L1
+Arellano Félix organisation,annotation,L1
+"Murders per month, '000",caption,L1
+2.0,axis_label,L1
+1.6,axis_label,L1
+1.2,axis_label,L1
+0.8,axis_label,L1
+0.4,axis_label,L1
+0,axis_label,L1
+M,axis_label,L1
+A,axis_label,L1
+M,axis_label,L1
+J,axis_label,L1
+J,axis_label,L1
+A,axis_label,L1
+S,axis_label,L1
+O,axis_label,L1
+N,axis_label,L1
+D,axis_label,L1
+J,axis_label,L1
+F,axis_label,L1
+M,axis_label,L1
+A,axis_label,L1
+M,axis_label,L1
+J,axis_label,L1
+J,axis_label,L1
+A,axis_label,L1
+S,axis_label,L1
+O,axis_label,L1
+N,axis_label,L1
+D,axis_label,L1
+J,axis_label,L1
+F,axis_label,L1
+M,axis_label,L1
+A,axis_label,L1
+M,axis_label,L1
+J,axis_label,L1
+J,axis_label,L1
+A,axis_label,L1
+2009,axis_label,L1
+2010,axis_label,L1
+2011,axis_label,L1
+2012,axis_label,L1
+,,L3

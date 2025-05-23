@@ -1,0 +1,41 @@
+textContents,textType,semantic_level
+The crisis response saved the auto industry and one million American jobs,title,L1
+Response,title,L1
+Cost,title,L1
+Reform,title,L1
+Challenges,title,L1
+"According to independent estimates, the rescue of the auto industry saved more than one million American jobs.",annotation,L2
+"Since the rescue, the auto industry has added more than 230,000 jobs.",annotation,L2
+"The auto industry rescue is currently estimated to cost about $22 billion, but the cost of a disorderly liquidation to families and businesses across the country that rely on the auto industry would have been far higher.",annotation,L2
+Auto-industry employment,subtitle,L1
+2.6m auto industry workers,caption,L1
+"+231,000",annotation,L2
+auto jobs since June 2009,annotation,L4
+2.4,axis_label,L1
+2.3,axis_label,L1
+2.2,axis_label,L1
+"Jan
+2009",axis_label,L1
+'10,axis_label,L1
+'11,axis_label,L1
+'12,axis_label,L1
+Mar. 2009,annotation,L4
+"President Obama rejects restructuring plans from GM and Chrysler, challenging them to develop more aggressive plans to return to viability.",annotation,L4
+After June 2009,annotation,L4
+Post-restructuring of GM and Chrysler,annotation,L4
+Sales of motor vehicles in the U.S.,title,L1
+13m,axis_label,L1
+10m,axis_label,L1
+12m,axis_label,L1
+13m,axis_label,L1
+14.5m,axis_label,L1
+2008,axis_label,L1
+2009,axis_label,L1
+2010,axis_label,L1
+2011,axis_label,L1
+"2012
+(annualized average to date)",axis_label,L1
+"Source: Bureau of Labor Statistics, Autodata.",caption,L1
+U.S. DEPARTMENT OF THE TREASURY,caption,L1
+7,title,L1
+added,annotation,L2

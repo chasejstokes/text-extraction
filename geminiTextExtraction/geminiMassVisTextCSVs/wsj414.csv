@@ -1,0 +1,29 @@
+textContents,textType,chartType
+Murder,title,
+By Numbers,title,
+"Shootings and murders
+have surged in the first
+half of the year in Chicago,
+compared with the
+first-half data in recent
+years.",caption,
+750,axis_label,
+500,axis_label,
+250,axis_label,
+200,axis_label,
+150,axis_label,
+100,axis_label,
+50,axis_label,
+0,axis_label,
+"Shootings
+January-June",caption,
+934,annotation,
+259,annotation,
+222,annotation,
+Murders by firearm,legend,
+Murder by other means,legend,
+January-June,legend,
+2007 '08 '09 '10 '11 '12,axis_label,
+2007 '08 '09 '10 '11 '12,axis_label,
+Source: City of Chicago,caption,
+The Wall Street Journal,caption,

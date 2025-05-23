@@ -1,0 +1,1 @@
+This image contains one bar chart entitled "Does China represent more of an economic threat or opportunity?". Because there is only one chart, the chart spans rows (0,0) and columns (0,0).

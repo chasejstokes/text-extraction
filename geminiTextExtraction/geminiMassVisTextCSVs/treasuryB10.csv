@@ -1,0 +1,72 @@
+textContents,textType,semantic_level
+Response,title,L1
+Cost,title,L1
+Reform,title,L1
+Challenges,title,L1
+10,title,L1
+"In fact, taxpayers may realize a gain",title,L2
+"Projections of financial stability program returns/costs, based on latest estimates",caption,L2
+"Overall, the government is now",paragraph,L3
+expected to at least break even,paragraph,L3
+on its financial stability programs,paragraph,L3
+and may realize a positive return.,paragraph,L3
+Treasury’s TARP investments and,paragraph,L3
+"overall stake in AIG, purchase of",paragraph,L3
+"mortgage-backed securities, and",paragraph,L3
+Money Market Fund guarantee,paragraph,L3
+program are each currently expected to,paragraph,L3
+realize an overall positive return for,paragraph,L3
+"taxpayers. Additionally, the Federal",paragraph,L3
+Reserve is remitting significant excess,paragraph,L3
+earnings to the Treasury.,paragraph,L3
+There are a range of estimates on the,paragraph,L3
+ultimate cost of TARP’s foreclosure,paragraph,L3
+prevention programs and stabilizing,paragraph,L3
+"Fannie Mae and Freddie Mac, which",paragraph,L3
+will depend upon future housing,paragraph,L3
+market conditions and other factors.,paragraph,L3
+"However, the overall positive returns",paragraph,L3
+from the other financial stability,paragraph,L3
+programs are currently expected to,paragraph,L3
+"more than offset those costs,",paragraph,L3
+according to the latest estimates.,paragraph,L3
+Treasury TARP,annotation,L2
+investment programs,annotation,L2
+and additional,annotation,L2
+AIG holdings,annotation,L2
++$2b,annotation,L2
+Other,annotation,L2
+Treasury,annotation,L2
++$51b,annotation,L2
+Treasury money,annotation,L2
+market fund,annotation,L2
+guarantee program,annotation,L2
+-$16b,annotation,L2
+CBO estimate,annotation,L2
+TARP housing,annotation,L2
+programs,annotation,L2
+-$46b,annotation,L2
+OMB estimate,annotation,L2
+-$25b,annotation,L2
+Treasury Mortgage-,annotation,L2
+Backed Securities,annotation,L2
+Purchase Program,annotation,L2
+-$151b,annotation,L2
+Current net cost,annotation,L2
++$179b,annotation,L2
+Federal,annotation,L2
+Reserve,annotation,L2
+excess,annotation,L2
+earnings*,annotation,L2
+-$28b,annotation,L2
+OMB projection of net,annotation,L2
+cost through FY2022,annotation,L2
+Fannie Mae/,annotation,L2
+Freddie Mac,annotation,L2
+conservatorship*,annotation,L2
+"* Treasury currently has a net investment of $151b in Fannie Mae and Freddie Mac, which is expected to be reduced over time as those firms generate positive earnings. OMB projects the eventual cost to fall to $28b by fiscal year 2022. This estimate however could change materially depending on future changes in home prices, enterprise market share, and other operating assumptions.",annotation,L4
+"** Treasury estimates. Based on the President’s FY2013 Budget, the Federal Reserve has already remitted $82 billion in excess earnings – above what would be expected in normal times – to the Treasury through fiscal year 2011. Total excess earnings from the Federal Reserve to be remitted to the general fund are currently forecast to reach $179 billion through fiscal year 2015. The amount of future Federal Reserve earnings is uncertain and will depend on future financial, economic, and market conditions.",annotation,L4
+Note: Estimates are most recently available as of publication and are subject to revision based on future market conditions. Chart includes income and costs for the financial stability programs only. It does not include figures related to the Recovery Act or tax revenues lost from the crisis.,annotation,L4
+"Source: Treasury, Office of Management and Budget. See Notes for further details on calculations.",caption,L4
+U.S. DEPARTMENT OF THE TREASURY,caption,L4
+informational chart,chart_type,L1

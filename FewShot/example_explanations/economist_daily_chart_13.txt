@@ -1,0 +1,1 @@
+This image contains one bar chart on the topic of Metaphors and expressions in the US presidential debate. Because there is only one chart, the chart spans rows (0,0) and columns (0,0).

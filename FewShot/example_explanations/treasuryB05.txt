@@ -1,0 +1,1 @@
+This image contains one table entitled "What did it support?". Because there is only one chart, the chart spans rows (0,0) and columns (0,0).

@@ -1,0 +1,62 @@
+textContents,textType,chartType
+Response,title,
+Cost,title,
+Reform,title,
+Challenges,title,
+4,title,
+The crisis response helped unclog the credit pipes of the financial system,title,
+"Net percentage of banks easing lending standards, by loan type",caption,
+40,axis_label,
+20,axis_label,
+0,axis_label,
+-20,axis_label,
+-40,axis_label,
+-60,axis_label,
+-80,axis_label,
+-100,axis_label,
+2006,axis_label,
+2007,axis_label,
+2008,axis_label,
+2009,axis_label,
+2010,axis_label,
+2011,axis_label,
+"More
+banks
+easining",legend,
+"More
+banks
+tightening",legend,
+Commercial and industrial lending,legend,
+Residential mortgages,legend,
+Consumer credit cards,legend,
+"Mar. 3, 2009",annotation,
+"Mar. 23, 2009",annotation,
+Feb. 2009,annotation,
+Recovery Act passed,annotation,
+"Jan. 20, 2009",annotation,
+"Oct. 3, 2008",annotation,
+Jun. 2009,annotation,
+"May 7, 2009",annotation,
+TARP enacted,annotation,
+First large banks repay TARP funds,annotation,
+Large bank stress test results released,annotation,
+"The crisis response helped
+restart the markets that
+provide financing for auto,
+credit card, mortgage, and
+business loans.",annotation,
+"For borrowers, it:",annotation,
+Improved credit access,annotation,
+"Lowered borrowing
+costs.",annotation,
+"How much has the price of credit
+recovered since the crisis?",annotation,
+"Agency
+mortgages",legend,
+100%,data_label,
+Auto loans,legend,
+99%,data_label,
+Credit cards,legend,
+99%,data_label,
+"Source: Federal Reserve Senior Loan Officer Opinion Survey, Treasury calculations.",source,
+U.S. DEPARTMENT OF THE TREASURY,footer,
